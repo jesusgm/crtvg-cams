@@ -7,3 +7,18 @@ provider: pages
   keep_history: true
   on:
     branch: master
+jobs:
+  include:
+    - stage: test
+      script:
+        - "npm run test"
+    - stage: deploy
+      script:
+        - "npm run build"
+stages:
+  - name: test
+    # require the type to be a PR
+    if: type = pull_request
+  - name: deploy
+    # require the type to be push to master
+    if: type = push AND branch = master
