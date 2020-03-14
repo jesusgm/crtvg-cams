@@ -1,6 +1,12 @@
 language: node_js
 node_js: "12"
 cache: yarn
+before_deploy:
+  # Set up git user name and tag this commit
+  - git config --local user.name $GIT_USER_NAME
+  - git config --local user.email $GIT_USER_EMAIL
+  - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
+  - git tag $TRAVIS_TAG
 jobs:
   include:
     - stage: test
@@ -17,8 +23,11 @@ stages:
     # require the type to be push to master
     if: type = push AND branch = master
     deploy:
-    provider: pages
-    api_key: $GITHUB_TOKEN
-    file_glob: true
-    file: ./docs/**/*
-    skip_cleanup: true
+      provider: pages
+      api_key: $GITHUB_TOKEN
+      file_glob: true
+      file: ./docs/**/*
+      skip_cleanup: true
+      overwrite: true
+      # on:
+      #   tags: true
