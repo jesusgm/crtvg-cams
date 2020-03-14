@@ -1,0 +1,1634 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> component tests Renders app 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div
+          class="slider"
+        >
+          <div
+            class="slider-wrapper"
+            style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+          >
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=coruna"
+              />
+              <h3
+                class="cam-name"
+              >
+                A Coruña
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=mcoruna"
+              />
+              <h3
+                class="cam-name"
+              >
+                A Coruña movil
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=bando"
+              />
+              <h3
+                class="cam-name"
+              >
+                Bando, San Marcos
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=fisterra"
+              />
+              <h3
+                class="cam-name"
+              >
+                Cabo Fisterra
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=ferrol"
+              />
+              <h3
+                class="cam-name"
+              >
+                Ferrol
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=pedroso"
+              />
+              <h3
+                class="cam-name"
+              >
+                Monte Pedroso
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=ortigueira"
+              />
+              <h3
+                class="cam-name"
+              >
+                Ortigueira
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=praterias"
+              />
+              <h3
+                class="cam-name"
+              >
+                Praza das Praterías
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=obradoiro"
+              />
+              <h3
+                class="cam-name"
+              >
+                Praza do Obradoiro
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=lugo"
+              />
+              <h3
+                class="cam-name"
+              >
+                Lugo
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=cebreiro"
+              />
+              <h3
+                class="cam-name"
+              >
+                O Cebreiro
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=portomarin"
+              />
+              <h3
+                class="cam-name"
+              >
+                Portomarín
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=arua"
+              />
+              <h3
+                class="cam-name"
+              >
+                A Rúa
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=manzaneda"
+              />
+              <h3
+                class="cam-name"
+              >
+                Cabeza de Manzaneda
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=oca_manzaneda_1"
+              />
+              <h3
+                class="cam-name"
+              >
+                Cabeza de Manzaneda - Estación 1
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=oca_manzaneda_2"
+              />
+              <h3
+                class="cam-name"
+              >
+                Cabeza de Manzaneda - Estación 2
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=oca_manzaneda_3"
+              />
+              <h3
+                class="cam-name"
+              >
+                Cabeza de Manzaneda - Estación 3
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=celanova"
+              />
+              <h3
+                class="cam-name"
+              >
+                Celanova
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=mourense"
+              />
+              <h3
+                class="cam-name"
+              >
+                Ourense (móbil)
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=ourense"
+              />
+              <h3
+                class="cam-name"
+              >
+                Ourense fixa
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=verin"
+              />
+              <h3
+                class="cam-name"
+              >
+                Verín
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=aguarda"
+              />
+              <h3
+                class="cam-name"
+              >
+                A Guarda
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=baiona"
+              />
+              <h3
+                class="cam-name"
+              >
+                Baiona
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=lalin"
+              />
+              <h3
+                class="cam-name"
+              >
+                Lalín
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=ogrove"
+              />
+              <h3
+                class="cam-name"
+              >
+                O Grove
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=pontevedra"
+              />
+              <h3
+                class="cam-name"
+              >
+                Pontevedra
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=portonovo"
+              />
+              <h3
+                class="cam-name"
+              >
+                Portonovo
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=sanxenxo"
+              />
+              <h3
+                class="cam-name"
+              >
+                Sanxenxo
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=tui"
+              />
+              <h3
+                class="cam-name"
+              >
+                Tui
+              </h3>
+            </div>
+            <div
+              class="cam-slider-container slide"
+            >
+              <iframe
+                class="cam-slide"
+                frameborder="0"
+                src="http://www.crtvg.es/camweb/cam.php?c=mvigo"
+              />
+              <h3
+                class="cam-name"
+              >
+                Vigo (móbil)
+              </h3>
+            </div>
+          </div>
+          <div
+            class="container elements-container"
+          >
+            <div
+              class="dots-container"
+            >
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+              <div
+                class="slider"
+              >
+                <div
+                  class="slider-wrapper"
+                  style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+                />
+                <div
+                  class="container elements-container"
+                />
+              </div>
+            </div>
+            <div
+              class="backArrow"
+            >
+              <span
+                class="icon   fa  fa-undefined fa fa-arrow-left"
+              />
+            </div>
+            <div
+              class="nextArrow"
+            >
+              <span
+                class="icon   fa  fa-undefined fa fa-arrow-right"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div
+        class="slider"
+      >
+        <div
+          class="slider-wrapper"
+          style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+        >
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=coruna"
+            />
+            <h3
+              class="cam-name"
+            >
+              A Coruña
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=mcoruna"
+            />
+            <h3
+              class="cam-name"
+            >
+              A Coruña movil
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=bando"
+            />
+            <h3
+              class="cam-name"
+            >
+              Bando, San Marcos
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=fisterra"
+            />
+            <h3
+              class="cam-name"
+            >
+              Cabo Fisterra
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=ferrol"
+            />
+            <h3
+              class="cam-name"
+            >
+              Ferrol
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=pedroso"
+            />
+            <h3
+              class="cam-name"
+            >
+              Monte Pedroso
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=ortigueira"
+            />
+            <h3
+              class="cam-name"
+            >
+              Ortigueira
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=praterias"
+            />
+            <h3
+              class="cam-name"
+            >
+              Praza das Praterías
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=obradoiro"
+            />
+            <h3
+              class="cam-name"
+            >
+              Praza do Obradoiro
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=lugo"
+            />
+            <h3
+              class="cam-name"
+            >
+              Lugo
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=cebreiro"
+            />
+            <h3
+              class="cam-name"
+            >
+              O Cebreiro
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=portomarin"
+            />
+            <h3
+              class="cam-name"
+            >
+              Portomarín
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=arua"
+            />
+            <h3
+              class="cam-name"
+            >
+              A Rúa
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=manzaneda"
+            />
+            <h3
+              class="cam-name"
+            >
+              Cabeza de Manzaneda
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=oca_manzaneda_1"
+            />
+            <h3
+              class="cam-name"
+            >
+              Cabeza de Manzaneda - Estación 1
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=oca_manzaneda_2"
+            />
+            <h3
+              class="cam-name"
+            >
+              Cabeza de Manzaneda - Estación 2
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=oca_manzaneda_3"
+            />
+            <h3
+              class="cam-name"
+            >
+              Cabeza de Manzaneda - Estación 3
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=celanova"
+            />
+            <h3
+              class="cam-name"
+            >
+              Celanova
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=mourense"
+            />
+            <h3
+              class="cam-name"
+            >
+              Ourense (móbil)
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=ourense"
+            />
+            <h3
+              class="cam-name"
+            >
+              Ourense fixa
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=verin"
+            />
+            <h3
+              class="cam-name"
+            >
+              Verín
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=aguarda"
+            />
+            <h3
+              class="cam-name"
+            >
+              A Guarda
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=baiona"
+            />
+            <h3
+              class="cam-name"
+            >
+              Baiona
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=lalin"
+            />
+            <h3
+              class="cam-name"
+            >
+              Lalín
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=ogrove"
+            />
+            <h3
+              class="cam-name"
+            >
+              O Grove
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=pontevedra"
+            />
+            <h3
+              class="cam-name"
+            >
+              Pontevedra
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=portonovo"
+            />
+            <h3
+              class="cam-name"
+            >
+              Portonovo
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=sanxenxo"
+            />
+            <h3
+              class="cam-name"
+            >
+              Sanxenxo
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=tui"
+            />
+            <h3
+              class="cam-name"
+            >
+              Tui
+            </h3>
+          </div>
+          <div
+            class="cam-slider-container slide"
+          >
+            <iframe
+              class="cam-slide"
+              frameborder="0"
+              src="http://www.crtvg.es/camweb/cam.php?c=mvigo"
+            />
+            <h3
+              class="cam-name"
+            >
+              Vigo (móbil)
+            </h3>
+          </div>
+        </div>
+        <div
+          class="container elements-container"
+        >
+          <div
+            class="dots-container"
+          >
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+            <div
+              class="slider"
+            >
+              <div
+                class="slider-wrapper"
+                style="transform: translateX(0px); transition: transform ease-out 0.5s;"
+              />
+              <div
+                class="container elements-container"
+              />
+            </div>
+          </div>
+          <div
+            class="backArrow"
+          >
+            <span
+              class="icon   fa  fa-undefined fa fa-arrow-left"
+            />
+          </div>
+          <div
+            class="nextArrow"
+          >
+            <span
+              class="icon   fa  fa-undefined fa fa-arrow-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

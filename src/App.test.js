@@ -1,9 +1,12 @@
-import React from 'react';
-import { render } from '@testing-library/react';
-import App from './App';
+import React from "react";
+import { render } from "@testing-library/react";
+// adds special assertions like toHaveTextContent
+import "@testing-library/jest-dom/extend-expect";
+import App from "./App";
 
-test('renders learn react link', () => {
-  const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+describe("<App /> component tests", () => {
+  it("Renders app", () => {
+    const container = render(<App />);
+    expect(container).toMatchSnapshot();
+  });
 });
