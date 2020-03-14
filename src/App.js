@@ -147,7 +147,7 @@ function App() {
         dots
         arrows
         slides={camList}
-        autoSlideSeconds={5}
+        autoSlideSeconds={3}
       />
     </div>
   );
