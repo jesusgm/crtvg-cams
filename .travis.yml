@@ -1,12 +1,14 @@
 language: node_js
 node_js: "12"
 cache: yarn
-# provider: pages
-#   skip_cleanup: true
-#   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-#   keep_history: true
-#   on:
-#     branch: master
+deploy:
+  provider: pages
+  api_key: $GITHUB_TOKEN
+  file_glob: true
+  file: docs/*
+  skip_cleanup: true
+  on:
+    tags: true
 jobs:
   include:
     - stage: test
