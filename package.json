@@ -1,7 +1,7 @@
 {
   "name": "crtvg-cams",
   "version": "0.1.0",
-  "hompage": "https://jesusgm.github.io/crtvg-cams/",
+  "homepage": "https://jesusgm.github.io/crtvg-cams/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

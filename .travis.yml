@@ -2,9 +2,11 @@ language: node_js
 node_js: "12"
 cache: yarn
 deploy:
-  provider: pages
+  provider: pages:git
   api_key: $GITHUB_TOKEN
   file_glob: true
   file: ./docs/**/*
   skip_cleanup: true
   overwrite: true
+  on:
+    branch: master
