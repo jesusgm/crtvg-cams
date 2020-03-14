@@ -20,7 +20,5 @@ stages:
     provider: pages
     api_key: $GITHUB_TOKEN
     file_glob: true
-    file: ./docs/*
+    file: ./docs/**/*
     skip_cleanup: true
-    on:
-      tags: true
