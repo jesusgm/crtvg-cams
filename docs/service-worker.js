@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crtvg-cams/precache-manifest.ddb9101a2bb91ec0e373b5346ea27d97.js"
+  "/crtvg-cams/precache-manifest.11cc238d0cbbca481fc8d116649c07cf.js"
 );
 
 self.addEventListener('message', (event) => {

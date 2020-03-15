@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9626565a25bbc48ad3cb5b4530a4a242",
+    "revision": "60d5384e9199d5c7dd69032111d3b59f",
     "url": "/crtvg-cams/index.html"
   },
   {
-    "revision": "d39bdeeed3a663a35215",
+    "revision": "54ef938452b8c35c5ee2",
     "url": "/crtvg-cams/static/css/main.2e88bb13.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crtvg-cams/static/js/2.8df7cd54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d39bdeeed3a663a35215",
-    "url": "/crtvg-cams/static/js/main.ca80e733.chunk.js"
+    "revision": "54ef938452b8c35c5ee2",
+    "url": "/crtvg-cams/static/js/main.e1d59b24.chunk.js"
   },
   {
     "revision": "7188636417eb64a2dd4a",
